@@ -2,10 +2,10 @@
 
 ### Industrial Affiliates Proposal
 
-Michael J. Pyrcz$^1$, John Foster$^{1,2}$, Carlos Torres-Verdín$^1$, and Eric van Oort$^1$
+Michael J. Pyrcz[^1], John Foster[^1,2], Carlos Torres-Verdín[^1], and Eric van Oort[^1]
 
-1- Hildebrand Department of Petroleum & Geosystems Engineering, the University of Texas at Austin  
-2 – Institute for Computational Engineering and Science, the University of Texas at Austin
+1 Hildebrand Department of Petroleum & Geosystems Engineering, the University of Texas at Austin  
+2 Institute for Computational Engineering and Science, the University of Texas at Austin
 
 ### Opportunity 
 
