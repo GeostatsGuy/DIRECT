@@ -32,7 +32,7 @@ The faculty leading this IAP are uniquely capable to address these challenges, g
 
 ### Membership 
 
-Consortium start-up requires three supporting partner companies at \$60k/year. At this level of support, the consortium will be able to support 3-4 PhD students to conduct the planned research supervised by leading faculty and while integrating input from the consortium participants. Interested companies are welcome to join now. We will host a formal kick-off session in The Woodlands, TX, June 12$^{th}$ 2019.
+Consortium start-up requires three supporting partner companies at \$60k/year. At this level of support, the consortium will be able to support 3-4 PhD students to conduct the planned research supervised by leading faculty and while integrating input from the consortium participants. Interested companies are welcome to join now. We will host a formal kick-off session in The Woodlands, TX, June 12<sup>th</sup>$ 2019.
 
 We are happy to discuss, 
 
