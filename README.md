@@ -7,6 +7,27 @@ Michael J. Pyrcz<sup>1</sup>, John Foster<sup>1,2</sup>, Carlos Torres-Verdín<s
 1 Hildebrand Department of Petroleum & Geosystems Engineering, the University of Texas at Austin  
 2 Institute for Computational Engineering and Science, the University of Texas at Austin
 
+### Initial Research Opportunities
+
+The participants in our kick off meeting requested that we provide a 'menu' / list of potential initial research projects. Note the actual consortium work is subject to member company steering. Research, prototype demonstrations and training materials included to support internal use of results.
+
+*	**Training Models** – machine learning requires a large set of training data.  The member companies would benefit the construction of a suite of realistic numerical, consistent 3D multivariate earth models with structural and stratigraphic heterogeneity, petrophysical, geophysical and geomechanical properties, well and production data.  We will account for realistic physics and messy, noisy, unbalanced, and incomplete measurements
+*	**Fair Training and Testing Workflows** – development of training and testing workflows that fairly assess the prediction accuracy of machine learning models.  Note: current random selection of testing subsets is not fair. This includes improved methods for design of optimum model complexity and to diagnose model overfit.
+*	**Data Preparation Methods** – methods for normalization, standardization of subsurface features for input into machine learning.  This includes data debiasing, imputation and accounting for measurement and interpretation uncertainty and spatial and scale context.  
+*	**Proxies for Reservoir Production** – rapid production forecasting from subsurface modes of initial and enhanced production and recovery for real-time feedback of reservoir production from subsurface modeling decisions and also for inference of subsurface heterogeneity from complicated production signals. 
+*	**Physical Constraints in Machine Learning Models** – development of methods to encode physical constraints in machine learning methods for improved accuracy and uncertainty models.
+* **Reduced Dimensionality Representation of Subsurface Uncertainty** – use of methods such as autoencoders to extracts salient features from complicated systems.  This includes the representation of subsurface uncertainty with reduce dimensionality for improved uncertainty modeling and communication.
+* **Fast Solutions of Inverse Problems** - estimate (with measures of uncertainty) lithology, petrophysical, elastic, and mechanical properties from noisy surface and borehole geophysical measurements. Approximate numerical solution for ultra-fast deep-learning training.
+* **Rock and Fluid Inference from Petrophysical Measures** – modeling of the complex relationships, and data issues to improve inference of rock and fluids from petrophysical measures.
+*	**Seismic Downscaling** – modeling the relationships between low resolution seismic and high resolution reservoir features and other multi-scale procedures to relate input measurements to output properties. 
+* **Anomaly Detection** – methods to detect features based on concepts such as significance for production and artifacts from spatiotemporal datasets.
+* **Impact of Well Trajectory on Production** - quantify effect / influence of well placement / quality on production to improve well trajectory design.
+* **Advanced Optimal Well Placement** - Real-time integration of sub-surface information (geophysics, geostatistics) and drilling data for placing wells optimally for primary & secondary HC recovery.
+* **Advanced Optimal Drilling Management** - Real-time characterization of pore-pressure, in-situ stress, rock properties, for optimum mud pressure and properties, etc.
+* **Feature Engineering** – methods for encoding spatial and physical constraints while potentially reducing problem dimensionality.   
+* **Building Reservoir Models** – machine learning-based reservoir models that honor complicated heterogeneity concepts, seismic information and production data. Integrated approach for estimation of inter-well and missing properties (data imputation).
+*	**Multiscale Flow Proxy Models** – fast assessments of flow behavior for model upscaling (from pores scale to production scale).  We have already demonstrated the use of convolutional neural nets.
+
 ### Opportunity 
 
 Recent numerical developments and improved computational resources have led to a rapid expansion of big data analytics and machine learning implementations. Oil and gas has a long history with big data from seismic surveys, production monitoring along with various other remote sensing and well-based data, and has developed various physics-based engineering and stochastic statistical workflows. There is an opportunity to combine best-practice and cutting-edge technology in reservoir spatiotemporal characterization and modeling, production data integration, reservoir geophysics and real-time drilling control with big data analytics and machine learning to optimize well trajectory and resource recovery.   
